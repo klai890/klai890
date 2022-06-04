@@ -7,7 +7,7 @@
   - neural net from scratch
   - personal blog
   - fanfiction.net & ao3 recommendation system
-  - teen writing platform
+  - writing platform
 
 <!---
 klai890/klai890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
