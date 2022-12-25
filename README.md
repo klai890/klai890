@@ -1,6 +1,6 @@
 <div>
  <h1>:wave: Welcome to my Profile!</h1>
- <p>I am <a href="https://github.com/klai890" target="_blank">Karena Lai</a>!</p>
+ <p>Hi! I am <a href="https://github.com/klai890" target="_blank">Karena Lai</a>, a high school senior interested in coding, running, and writing</p>
 
 </div>
 
