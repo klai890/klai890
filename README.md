@@ -7,11 +7,6 @@ Hi! I am [Karena Lai](https://github.com/klai890), a high school senior at Monta
 
 <br />
 
-## :chart_with_upwards_trend: My Stats
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=klai890&show_icons=true&theme=radical)
-
-<br />
-
 ## :hammer_and_wrench: Fav Tools & Languages
 
 <div>
@@ -28,3 +23,9 @@ Hi! I am [Karena Lai](https://github.com/klai890), a high school senior at Monta
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## :chart_with_upwards_trend: My Stats
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=klai890&show_icons=true&theme=radical)
+
+<br />
