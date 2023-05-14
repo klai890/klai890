@@ -1,8 +1,8 @@
 # :wave: Welcome to my Profile!
-Hi! I am [Karena Lai](https://github.com/klai890), a high school senior at Monta Vista HS who loves coding, calculus, running, and learning!
+Hi! I am [Karena Lai](https://github.com/klai890), an incoming Data Science & Math double major at UCSB who loves coding, calculus, running, and learning!
 
 - 🔭 I’m currently working on <a href="https://github.com/klai890/srt" target="_blank">**Strava Running Tools!**</a>
-- 🌱 I’m currently learning **NextJs, VueJs**
+- 🌱 I’m currently learning **NextJs, AI**
 - 👯 Interested in contributing to open source
 
 <br />
