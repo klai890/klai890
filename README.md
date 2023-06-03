@@ -1,9 +1,8 @@
 # :wave: Welcome to my Profile!
 Hi! I am [Karena Lai](https://github.com/klai890), an incoming Data Science & Math double major at UCSB who loves coding, calculus, running, and learning!
 
-- 🔭 I’m currently working on <a href="https://github.com/klai890/srt" target="_blank">**Strava Running Tools!**</a>
+- 🔭 I’m currently working on <a href="https://github.com/klai890/prescribed" target="_blank">**Prescribed**</a>
 - 🌱 I’m currently learning **about <a href="https://course.fast.ai/">AI</a>**
-- 👯 Interested in contributing to open source
 
 <br />
 
