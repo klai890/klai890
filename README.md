@@ -22,9 +22,3 @@ Hi! I am [Karena Lai](https://github.com/klai890), an incoming Data Science & Ma
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## :chart_with_upwards_trend: My Stats
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=klai890&show_icons=true&theme=radical)
-
-<br />
