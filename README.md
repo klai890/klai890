@@ -1,5 +1,5 @@
 # :wave: Welcome to my Profile!
-Hi! I am [Karena Lai](https://github.com/klai890), an incoming Data Science & Math double major at UCSB who loves coding, calculus, running, and learning!
+Hi! I am [Karena Lai](https://github.com/klai890), studying Data Science and Math UCSB who loves coding, running, and learning!
 
 - 🌱 I’m currently learning **about <a href="https://course.fast.ai/">AI</a>**
 
