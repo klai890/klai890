@@ -1,5 +1,6 @@
 # :wave: Welcome to my Profile!
-Hi! I am [Karena Lai](https://github.com/klai890), a Computer Science student at UCSB
+Hi! I am [Karena Lai](https://github.com/klai890), a Computer Science student at UCSB interested in web development and deep learning. Check out my repository for some of my personal projects!
+
 <br />
 
 ## :hammer_and_wrench: Fav Tools & Languages
